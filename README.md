@@ -2,7 +2,12 @@
 
 This project helps to find insights and perceptions on the data.
 
-#### Inputs
+## Streamlit Cloud App
+https://shankesh-lyzr-redshift-analysis.streamlit.app/
+
+Streamlit app has no visualization module
+
+## Inputs
 - Redshift host URL
 - Username for the database
 - Password 
@@ -11,7 +16,7 @@ This project helps to find insights and perceptions on the data.
 - OpenAI API key
 - QUery
 
-#### Outputs
+## Outputs
 - Display the table
 - Data Description
 - Exploratory Analysis
@@ -19,26 +24,27 @@ This project helps to find insights and perceptions on the data.
 - User query for text analysis
 - User query for visual analysis
 
-#### Database
-![image](/home/ms/Pictures/Screenshots/Screenshot%20from%202024-02-22%2023-12-12.png)
+## Database
+
+![](/images/Screenshot%20from%202024-02-22%2023-11-17.png)
 
 
-#### Data Description
-file:///home/ms/Pictures/Screenshots/Screenshot%20from%202024-02-22%2023-12-12.png
-z
-
-#### Exploratory Analysis
-file:///home/ms/Pictures/Screenshots/Screenshot%20from%202024-02-22%2023-12-41.png
-
-#### Recommended Analysis
-file:///home/ms/Pictures/Screenshots/Screenshot%20from%202024-02-22%2023-12-49.png
+## Data Description
+![](/images/Screenshot%20from%202024-02-22%2023-12-12.png)
 
 
-#### User Query for visual analysis
-file:///home/ms/Pictures/Screenshots/Screenshot%20from%202024-02-22%2023-11-57.png
+## Exploratory Analysis
+![](/images/Screenshot%20from%202024-02-22%2023-12-41.png)
+
+## Recommended Analysis
+![](/images/Screenshot%20from%202024-02-22%2023-12-49.png)
 
 
-#### For suggestion and improvement feel free to contact me @
+## User Query for visual analysis
+![](/images/Screenshot%20from%202024-02-22%2023-11-57.png)
+
+
+## For suggestion and improvement feel free to contact me @
 
 Shankesh Raju MS 
 
@@ -47,6 +53,6 @@ LinkedIn - https://linkedin.com/in/shankeshrajums
 Mail - shankeshraju@gmail.com
 
 
-If you like my projects, would be apreciable to attend Machine Learning related interviews if any available....
+If you like my projects, Kindly refer me for ML related projects or job if any available
 
 Thanks!!!
