@@ -20,7 +20,7 @@ This project helps to find insights and perceptions on the data.
 - User query for visual analysis
 
 #### Database
-![alt text](/home/ms/Pictures/Screenshots/Screenshot%20from%202024-02-22%2023-12-12.png)
+![image](/home/ms/Pictures/Screenshots/Screenshot%20from%202024-02-22%2023-12-12.png)
 
 
 #### Data Description
